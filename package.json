@@ -10,5 +10,9 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "packageManager": "yarn@4.5.0",
+  "dependencies": {
+    "esbuild": "^0.24.0"
+  }
 }
